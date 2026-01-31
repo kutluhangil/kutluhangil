@@ -1,39 +1,43 @@
-// =================================================
+// ==========================================
 // Profile: Kutluhan
 // Role: Full Stack Developer
-// Frontend: React, UI, UX
-// Backend: APIs, Auth, Data Flow
-// =================================================
+// Focus: Frontend & Backend
+// ==========================================
 
 const developer = {
   name: "Kutluhan",
+
   role: "Full Stack Developer",
-  focus: {
-    frontend: ["React", "JavaScript", "HTML", "CSS", "UI/UX"],
-    backend: ["REST APIs", "Authentication", "Data handling"]
+
+  stack: {
+    frontend: ["JavaScript", "React", "HTML", "CSS"],
+    backend: ["REST APIs", "Authentication", "Data flow"]
   },
-  mindset: [
+
+  interests: [
     "clean UI",
-    "human-centered design",
+    "user experience",
     "maintainable code",
-    "simple > complex"
+    "simple architectures"
   ],
-  currentlyLearning: "advanced React patterns & scalable architectures",
-  goal: "build production-ready web applications with real users in mind",
 
-  // 🎮 When I’m not coding, I’m probably gaming
+  currentlyLearning: "advanced React patterns",
+
+  goal: "build production-ready web applications",
+
+  // enjoys gaming after coding
   gaming: {
-    steam: "https://steamcommunity.com/id/kutluhangil",
-    ubisoft: "https://ubisoftconnect.com",
-    xbox: "https://www.xbox.com/en-US/play",
-    playstation: "https://www.playstation.com",
-    epicGames: "https://store.epicgames.com",
-    gog: "https://www.gog.com/u/kutluhangil"
+    steam: "steamcommunity.com/id/kutluhangil",
+    ubisoft: "ubisoftconnect.com",
+    xbox: "xbox.com",
+    playstation: "playstation.com",
+    epic: "store.epicgames.com",
+    gog: "gog.com/u/kutluhangil"
   },
 
-  // 🎧 Code better with good music
+  // codes better with music
   music: {
-    spotify: "https://open.spotify.com/user/kutluhangil"
+    spotify: "open.spotify.com/user/kutluhangil"
   }
 };
 
