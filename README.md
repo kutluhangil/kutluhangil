@@ -37,12 +37,12 @@ const developer = {
 
   // off-work
   gaming: {
-    steam: "https://steamcommunity.com/id/kutluhangil",
-    ubisoft: "https://www.ubisoft.com",
-    xbox: "https://www.xbox.com",
-    playstation: "https://www.playstation.com",
-    epic: "https://store.epicgames.com",
-    gog: "https://www.gog.com/u/kutluhangil",
+    steam: kutluhangil,
+    ubisoft: kutluhangil,
+    xbox: kutluhangil,
+    playstation: kutluhangil,
+    epic: kutluhangil,
+    gog: kutluhangil,
   },
 
   music: {
